@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sarankhan944/sarankhan944/jamalihassan0307/blob/main/gif2.gif.gif" width="500px" height="300px">
+  <img src="https://github.com/sarankhan944/sarankhan944/jamalihassan0307/blob/main/gif2.gif" width="500px" height="300px">
 </p>
 
 <h1 align="center">
