@@ -2,11 +2,8 @@
   <img src="https://github.com/jamalihassan0307/jamalihassan0307/blob/main/gif2.gif.gif" width="500px" height="300px">
 </p>
 
-<h1 align="center">
-  <a href="https://prepverse.github.io">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=0A94F7FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Saran" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Saran+Khan" alt="Typing SVG" /></a></h1>
+
 
 ## About Me
 
